@@ -4,7 +4,7 @@ Simple webapp to help with json tidying and creation.  Built using bolt during t
 
 **Your friendly JSON wrangler — validate, format, convert, generate, and more.**
 
-Jason is here to help you test and play with JSON files without breaking your brain. Built during the #30AppsIn30Days challenge using @boltfun__.
+Jason is here to help you test and play with JSON files without breaking your brain. Built during the #30AppsIn30Days challenge using @boltdotnew
 
 ---
 
