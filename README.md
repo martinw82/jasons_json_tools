@@ -22,7 +22,7 @@ Jason is here to help you test and play with JSON files without breaking your br
 - Bolt
 - HTML + Tailwind CSS
 - JavaScript (Vanilla + utilities)
-- [Jason the JSON Bot](#) – custom mascot with ❤️ - from chatgpt
+- [[Jason the JSON Bot](#) – custom mascot with ❤️ - from chatgpt
 - GROK for concept breakdown and dev brief breakdown
 - EZ-Dev-Brief generator (personal day0 app)  Unneccessary step but did it for proof of concept
 
@@ -35,7 +35,7 @@ Built as a simple tool to test JSON workflows and handle fake data in lightweigh
 ---
 
 ### 🚀 Live App
-👉 [Jason’s JSON Toolbox – Try it now](#)
+👉 [[Jason’s JSON Toolbox – Try it now](#)](https://jasons-json-tools.netlify.app/)
 
 ### 🗂 Repo Structure
 
